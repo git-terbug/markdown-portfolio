@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+Cosas favoritas
+1. 📘
+2. 🛌
+3. 🎵
+
+Comida
+* 🍕
+* 🌮
+* 🍔
